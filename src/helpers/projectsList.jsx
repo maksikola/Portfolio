@@ -39,7 +39,8 @@ export const allProjects = [
         title: 'Portfolio',
         skills: 'React, Node.js, MangoDB',
         img: projects4,
-        imgBig: projects4Big
+        imgBig: projects4Big,
+        gitHubLink: 'https://github.com/maksikola/Portfolio'
     }
 ]
 

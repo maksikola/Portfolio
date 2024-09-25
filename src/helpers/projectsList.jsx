@@ -16,28 +16,28 @@ import projects4Big from './../img/projects/04-big.jpg'
 export const allProjects = [
     {
         title: 'Furniture-Website',
-        skills: 'React, Node.js, MangoDB',
+        skills: 'CSS, SCSS, HTML',
         img: projects,
         imgBig: projectsBig,
         gitHubLink: 'https://github.com/maksikola/Furniture-Website'
     },
     {
         title: 'TravelVlog',
-        skills: 'React, Node.js, MangoDB',
+        skills: 'CSS, SCSS, HTML',
         img: projects2,
         imgBig: projects2Big,
         gitHubLink: 'https://github.com/maksikola/Travlog'
     },
     {
         title: 'ToDoList',
-        skills: 'React, Node.js, MangoDB',
+        skills: 'JS, CSS, HTML',
         img: projects3,
         imgBig: projects3Big,
         gitHubLink: 'https://github.com/maksikola/ToDoList'
     },
     {
         title: 'Portfolio',
-        skills: 'React, Node.js, MangoDB',
+        skills: 'React, JS, CSS, HTML',
         img: projects4,
         imgBig: projects4Big,
         gitHubLink: 'https://github.com/maksikola/Portfolio'

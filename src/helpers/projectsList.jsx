@@ -10,6 +10,9 @@ import projects3Big from './../img/projects/03-big.jpg'
 import projects4 from './../img/projects/04.jpg'
 import projects4Big from './../img/projects/04-big.jpg'
 
+import projects5 from './../img/projects/05.jpg'
+import projects5Big from './../img/projects/05-big.jpg'
+
 
 
 
@@ -41,6 +44,13 @@ export const allProjects = [
         img: projects4,
         imgBig: projects4Big,
         gitHubLink: 'https://github.com/maksikola/Portfolio'
+    },
+    {
+        title: 'Tailwind-project',
+        skills: 'React, JS, CSS, HTML',
+        img: projects5,
+        imgBig: projects5Big,
+        gitHubLink: 'https://github.com/maksikola/Tailwind-project'
     }
 ]
 
